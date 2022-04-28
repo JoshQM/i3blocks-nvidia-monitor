@@ -2,6 +2,8 @@
 
 Simple script to show Nvidia GPU usage and Temperature in i3blocks. This is written to work with the proprietary Nvidia drivers since thats what i use.
 
+![alt text](https://i.imgur.com/zgK0cMy.png)
+
 ## Dependencies
 ```
 nvidia-settings
